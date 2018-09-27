@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WebApplication1")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("WebApp1")]
+[assembly: AssemblyDescription("Nauka ASP.NET")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WebApplication1")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyProduct("WebApp1")]
+[assembly: AssemblyCopyright("Copyright ©  2018 Arkadiusz Witek")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

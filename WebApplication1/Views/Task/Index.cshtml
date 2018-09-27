@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    var test = "Testowy test";
+}
+
+<h2>oo Mój pierwszy kontroler w ASP.NET MVC!;)</h2>
+
+@for (var i = 0; i<5; i++)
+{
+    if (i == 2)
+    {
+        <div>@test</div>
+    }
+    else
+    {
+        @test
+    }
+   
+}
+
